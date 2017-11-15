@@ -5,7 +5,8 @@
   </h4>
 </div>
 <div style="overflow:hidden">
-	<p style="font-size: 16px;color:#1b252e;width:80%;padding:10px 10%;">
+	<h4 style="font-size:18px;font-family: '新宋体';line-height: 20px;padding:10px 20px;">原生ajax请求</h4>
+	<p style="font-size: 12px;color:#1b252e;width:80%;padding:10px 10%;">
 		var Ajax={
 		    get: function(url, fn) {
 			// XMLHttpRequest对象用于在后台与服务器交换数据 
